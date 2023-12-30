@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n23ihdlU8HHofWNryyES7jyNnjI/ntd5pA2eL1vPEeQROsxE6upgrirXa7nxM97/y/8Rns+VKeK2+gFms7mk+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ghost\\OneDrive\\Рабочий стол\\first projects c#\\HRAdministrationAPI\\HRAdministrationAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ghost\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ghost\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
